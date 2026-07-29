@@ -13,6 +13,8 @@ Additionally, it handles the following bonus objectives:
 When run successfully, the terminal will display the following confirmation, and a new restock_report.csv file will be generated in the same folder:
 
 $ python inventory_script.py
+
 Success: Found 2 low-stock items.
+
 Report saved to 'restock_report.csv'.
 
